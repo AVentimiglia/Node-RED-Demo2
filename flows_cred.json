@@ -1,0 +1,26 @@
+{
+    "ba01e4a951a1fcf0": {},
+    "9ada946142e20abc": {
+        "user": "opcuauser",
+        "password": "F-22raptor"
+    },
+    "0387e849e22d8644": {
+        "user": "Default User",
+        "password": "robotics"
+    },
+    "90e86d250c885b70": {
+        "user": "Default User",
+        "password": "robotics"
+    },
+    "bb4a6f87824a3a7b": {},
+    "df5067f7.317428": {},
+    "deaab055c5f784fb": {},
+    "82ec18212b511e79": {},
+    "7316e0da.4324d": {},
+    "77fdc29e.3c49ec": {},
+    "656463f1e4222a98": {},
+    "71aa16b8e29f657a": {
+        "apiToken": "nodeRedIgnition1",
+        "secret": "broadside"
+    }
+}
